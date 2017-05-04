@@ -4,7 +4,7 @@ In this resource you will learn the basics of how to solder components together.
 
 ## Video tutorial
 
-**Video embed will go here**
+<iframe width="560" height="315" src="https://www.youtube.com/embed/8Z-2wPWGnqE" frameborder="0" allowfullscreen></iframe>
 
 ## You will need
 In this video you will learn how to solder which is a really useful skill for digital makers. Soldering is joining together electronic components by melting a filler metal into the joints.
