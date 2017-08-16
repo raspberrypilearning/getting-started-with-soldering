@@ -1,6 +1,8 @@
-## Troubleshooting
+## What next?
 
-If you make a mistake and apply too much solder, you can use the desoldering wick to remove the excess. Hold the desoldering wick against the solder you wish to remove. Then, place the tip of the soldering iron onto the wick. You should see the unwanted solder sucking up into the wick so that it can be removed.
+So, now that you've learnt how to solder, what are you going to make?
 
-And that's it! Now you just need to solder the rest of the pins exactly like this. Don't forget that when you've finished soldering, some parts of the components may still be pretty hot. Also, make sure that you wash your hands to remove any residues that may be left over.
+- [Raspberry Pi Zero time-lapse camera](https://projects.raspberrypi.org/en/projects/raspberry-pi-zero-time-lapse-cam/)
+
+Don't forget, we love hearing about your makes. Drop us a line on [Instagram](https://www.instagram.com/raspberrypifoundation/), [tweet us](https://twitter.com/raspberry_pi) or send us an [email](https://www.raspberrypi.org/contact/).
 

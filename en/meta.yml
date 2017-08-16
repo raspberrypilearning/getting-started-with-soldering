@@ -16,10 +16,8 @@ site_areas: ''
 steps:
 - title: Introduction
 - title: What you will need
-- title: Getting started with soldering
 - title: Video tutorial
 - title: Your setup
 - title: How to solder
 - title: Troubleshooting
 - title: What next?
-
