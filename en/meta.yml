@@ -4,7 +4,7 @@ hero_image: images/banner.png
 description: In this resource you will learn the basics of how to solder components
   together.
 original_url: https://raspberrypi.org/learning/getting-started-with-soldering
-theme: red
+theme: turquoise
 duration: 2
 listed: true
 ingredient: false
