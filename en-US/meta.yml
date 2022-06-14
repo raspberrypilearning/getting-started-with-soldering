@@ -1,0 +1,37 @@
+---
+title: Getting started with soldering
+hero_image: images/banner.png
+description: In this resource you will learn the basics of how to solder components together.
+original_url: https://raspberrypi.org/learning/getting-started-with-soldering
+theme: turquoise
+duration: 2
+listed: true
+ingredient: false
+copyedit: true
+curriculum: 2, design-0, programming-0, phys-comp-0, manufacture-2, community-0
+interests: ''
+technologies: electronic-components
+site_areas: projects
+hardware: electronic-components
+software: ''
+version: 3
+last_tested: 2017-01-01
+steps:
+  - 
+    title: Introduction
+  - 
+    title: What you will need
+  - 
+    title: Video tutorial
+  - 
+    title: Your setup
+    completion:
+      - engaged
+  - 
+    title: How to solder
+    completion:
+      - internal
+  - 
+    title: Troubleshooting
+  - 
+    title: What next?
