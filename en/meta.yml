@@ -20,12 +20,14 @@ last_tested: 2017-01-01
 steps:
 - title: Introduction
 - title: What you will need
-- title: Video tutorial
-- title: Your setup
   completion:
   - engaged
+- title: Video tutorial
+- title: Your setup
 - title: How to solder
   completion:
   - internal
 - title: Troubleshooting
-- title: What next?
+- title: What can you do now?
+  completion:
+  - external
