@@ -28,6 +28,5 @@ steps:
   completion:
   - internal
 - title: Troubleshooting
-- title: What can you do now?
   completion:
   - external
